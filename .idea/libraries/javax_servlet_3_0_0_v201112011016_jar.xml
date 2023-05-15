@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javax.servlet-3.0.0.v201112011016.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-3.0.0.v201112011016.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/lib/javax.servlet-3.0.0.v201112011016.jar.zip!/" recursive="false" />
+  </library>
+</component>
